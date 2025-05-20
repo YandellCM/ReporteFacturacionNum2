@@ -677,3 +677,7 @@ Exportar a PDF
 Imprimir
 
 Navegar entre páginas
+
+#### Aqui tienes como deberia quedar tu reportviewer todo depende el diseno que le des.
+
+ ![report](report.png)
